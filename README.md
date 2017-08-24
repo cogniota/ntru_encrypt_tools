@@ -1,7 +1,9 @@
 # ntru_encrypt_tools
 
-use https://github.com/NTRUOpenSourceProject/NTRUEncrypt/blob/master/INSTALL.md
-for install the library and 
+Use https://github.com/NTRUOpenSourceProject/NTRUEncrypt/blob/master/INSTALL.md
+for install the library 
+
+
 gcc NTRUEncrypt_***.c -lntruencrypt  -Iinclude -o bin/NTRUEncrypt_***
 for compile c files.
 
